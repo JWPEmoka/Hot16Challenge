@@ -1,3 +1,7 @@
+
+Polecenia w linuxie
+
+
 1. pwd - (Print Working Directory)  Wyświetla aktualną ścieżkę do katalogu - folderu, w którym własnie jesteśmy.
 
 2. ls - (list)  Wyświetla całą zawartość folderu (pliki i foldery), w którym się znajdujemy.
