@@ -1,0 +1,31 @@
+1. pwd - (Print Working Directory)  Wyświetla aktualną ścieżkę do katalogu - folderu, w którym własnie jesteśmy.
+
+2. ls - (list)  Wyświetla całą zawartość folderu (pliki i foldery), w którym się znajdujemy.
+
+3. cd - (Change Directory)  Zmieniamy miejsce / katalog w którym się znajdujemy.
+
+4. man - (manual)  Wyświetlimy pomoc dla danej komendy i czasem przykład użycia. Np man cd wyświetl opis  - jak używać komendy cd, jakie ma opcje. Użyj (q) żeby wyjść z trybu czytania pomocy.
+
+5. mkdir - (Make Directory)  Tworzymy nowy folder.
+
+6. rmdir - (Remove Directory)  Usuwamy wybrany folder.
+
+7. touch -  Tworzymy nowy pusty plik 
+
+8. cat - (Concatenate)  Komenda służy przede wszystkim do łączenia plików, ale może być wykorzystywane do wyświetlania plików czy stworzenia cowego pliku.
+
+9. cp - (Copy)  służy do kopiowania plików. Możemy utworzyć kopię pliku w tym samym folderze pod nową nazwą.
+
+10. mv - (Move)  Służy do przeniesienia pliku do innego folderu.
+
+11.rm - (Remove)  Kiedy kończymy pracę z plikiem i chcemy go usunąć używamy tej komendy. 
+
+12.ps - (Process Status)  Wyświetla listę procesów dla aktualnej powłoki.
+
+13.grep - (Global Regular Expression Print)  Przegląda aktualny katalog w poszukiwaniu plików spełniających warunek zawierających wzorzec zawartości i pasujące do nazwy pliku.
+
+14.clear - Czyści terminal kiedy mamy bałagan.
+
+15.history - Służy do sprawdzenia wpisanych komend.
+
+16.exit - Zamyka terminal.
